@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CD\\C#\\BlazorWebAppTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EED248B-F274-4B84-85D0-1E29AB72FA89}|BlazorWebAppTest\\BlazorWebAppTest.csproj|c:\\cd\\c#\\blazorwebapptest\\blazorwebapptest\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EED248B-F274-4B84-85D0-1E29AB72FA89}|BlazorWebAppTest\\BlazorWebAppTest.csproj|solutionrelative:blazorwebapptest\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EED248B-F274-4B84-85D0-1E29AB72FA89}|BlazorWebAppTest\\BlazorWebAppTest.csproj|c:\\cd\\c#\\blazorwebapptest\\blazorwebapptest\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EED248B-F274-4B84-85D0-1E29AB72FA89}|BlazorWebAppTest\\BlazorWebAppTest.csproj|solutionrelative:blazorwebapptest\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\CD\\C#\\BlazorWebAppTest\\BlazorWebAppTest\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTest\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\CD\\C#\\BlazorWebAppTest\\BlazorWebAppTest\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorWebAppTest\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T08:14:04.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\CD\\C#\\BlazorWebAppTest\\BlazorWebAppTest\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorWebAppTest\\Components\\App.razor",
+              "ToolTip": "C:\\CD\\C#\\BlazorWebAppTest\\BlazorWebAppTest\\Components\\App.razor",
+              "RelativeToolTip": "BlazorWebAppTest\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T08:04:44.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
